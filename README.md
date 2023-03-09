@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DavAQ
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on Software Development Projects
-- 📫 How to reach me @AQ61
+- 👋 Hi, I’m David
+- 👀 I’m interested in Data Science and Analysis
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Data Analysis Projects
+- 📫 How to reach me @DavAQ
 
 <!---
 DavAQ/DavAQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
